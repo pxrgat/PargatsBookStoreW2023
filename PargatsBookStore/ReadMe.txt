@@ -7,4 +7,7 @@ Clone the Repository in GitHub and named it PargatsBookStore2023
 edit the startup.cs 
 remove **options => options.SignIn.RequireConfirmedAccount = true** from line 33th
 1525
-After sometime I added the Controller folder and add Controller>Add>Controller
+After sometime I added the Controller folder and add Controller>Add>HomeController.cs
+1554
+type all the HomeController.cs and test the file 
+
